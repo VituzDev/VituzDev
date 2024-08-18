@@ -44,6 +44,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/VituzDev/VituzDev/output/snake.svg" alt="Snake animation" />
-
 ###
